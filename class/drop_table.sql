@@ -1,1 +1,0 @@
-ALTER TABLE tb_curso DROP carga_hora;
