@@ -1,1 +1,0 @@
-RENAME TABLE tb_cursos TO tb_curso; 
