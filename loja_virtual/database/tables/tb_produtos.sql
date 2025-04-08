@@ -1,0 +1,5 @@
+CREATE TABLE tb_produtos(
+  id_produto INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  produto VARCHAR(200) NOT NULL,
+  valor FLOAT(8,2) NOT NULL
+)
