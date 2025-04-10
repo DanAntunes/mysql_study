@@ -1,0 +1,5 @@
+CREATE TABLE tb_clientes(
+  id_cliente INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  nome VARCHAR(100) NOT NULL,
+  idade INT(3) NOT NULL
+);
