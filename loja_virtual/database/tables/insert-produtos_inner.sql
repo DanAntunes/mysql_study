@@ -1,0 +1,1 @@
+INSERT INTO tb_produtos(produto, valor)VALUES('HD Externo Portátil Seagate Expansion 1TB USB 3.0', 274.90)
